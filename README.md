@@ -13,4 +13,4 @@ The code uses the following packages:
 ## Running the Code
 
 I have included both the python file and jupyter notebook(ipynb).
-Please use whichever is convenient.
+Please use appropriate file.
